@@ -1,5 +1,13 @@
 ## Hi there, Welcome to Amir's Caravan Of Codes 👋
 
+<p align="center">
+  <span align="center">
+  
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/monaprimaveras/.github/main/docs/image/bear-blink.gif" >
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/monaprimaveras/.github/main/docs/image/panda-blink-2.gif" >
+</span>
+  </p>
+
 <!--
 
 **Here are some ideas to get you started:**
