@@ -1,9 +1,23 @@
 ## Hi there, Welcome to Amir's Caravan Of Codes 👋
 
-<p align="center">
-  <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-chick.gif">
-  <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-chick.gif">
-</p>
+
+  
+  <table align="center">
+    <tr>
+      <td>  
+          <p align="center">
+            <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-chick.gif">
+            <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-chick.gif">
+        </p>
+      </td>
+      <td>
+        <p>
+          <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-blink-2.gif">
+          <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-blink-2.gif">
+        </p>
+      </td>
+  </tr>
+</table>
 
 <!--
 
