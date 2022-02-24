@@ -1,12 +1,9 @@
 ## Hi there, Welcome to Amir's Caravan Of Codes 👋
 
 <p align="center">
-  <span align="center">
-  
-  <img width="100px" height="100px" src="https://raw.githubusercontent.com/monaprimaveras/.github/main/docs/image/bear-blink.gif" >
-  <img width="100px" height="100px" src="https://raw.githubusercontent.com/monaprimaveras/.github/main/docs/image/panda-blink-2.gif" >
-</span>
-  </p>
+  <img width="90px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-chick.gif">
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-chick.gif">
+</p>
 
 <!--
 
