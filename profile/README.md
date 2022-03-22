@@ -1,5 +1,7 @@
 ## Hi there, Welcome to Amir's Caravan Of Codes 👋
-
+[![Frogobox Android CI](https://github.com/frogobox/frogo-piano-tiles/actions/workflows/andoid-ci.yml/badge.svg)](https://github.com/frogobox/frogo-piano-tiles/actions/workflows/andoid-ci.yml)
+[![Xeonidas Android CI](https://github.com/caravancodes/xeonidas-piano-tiles/actions/workflows/andoid-ci.yml/badge.svg)](https://github.com/caravancodes/xeonidas-piano-tiles/actions/workflows/andoid-ci.yml)
+[![MNIA Android CI](https://github.com/caravancodes/mnia-piano-tiles/actions/workflows/andoid-ci.yml/badge.svg)](https://github.com/caravancodes/mnia-piano-tiles/actions/workflows/andoid-ci.yml)
 
   
   <table align="center">
@@ -24,6 +26,8 @@
       </td>
   </tr>
 </table>
+
+
 
 <!--
 
