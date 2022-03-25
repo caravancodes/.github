@@ -28,8 +28,8 @@
       <tr>
       <td>  
           <p align="center">
-            <img width="90px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-bayi-kelaparan-01.gif">
-            <img width="90px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-bayi-kelaparan-01.gif">
+            <img width="82px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-bayi-kelaparan-01.gif">
+            <img width="82px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-bayi-kelaparan-01.gif">
         </p>
       </td>
       <td>
