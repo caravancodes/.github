@@ -45,6 +45,26 @@
         </p>
       </td>
   </tr>
+        <tr>
+      <td>  
+          <p align="center">
+            <img width="90px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-funny-dancing.gif">
+            <img width="90px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-funny-dancing.gif">
+        </p>
+      </td>
+      <td>
+        <p>
+          <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-dancing.gif">
+          <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-dancing.gif">
+        </p>
+      </td>
+      <td>
+        <p>
+          <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-bajunya-ga-bener.gif">
+          <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-bajunya-ga-bener.gif">
+        </p>
+      </td>
+  </tr>
 </table>
 
 
